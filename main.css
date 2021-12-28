@@ -16,10 +16,15 @@ div#footer {
 .red   { color: #FFF; background-color: #B00; }
 .yel   { color: #FFF; background-color: #BB0; }
 
+.vbottom {
+  top: 90%;
+  margin: auto;
+}
+
 .vcenter {
   top: 50%;
   margin: auto;
-  padding-top: 280px;
+  /*padding-top: 280px;*//
 }
 
 .center {
